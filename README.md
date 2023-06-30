@@ -7,6 +7,10 @@ ordering also results in a payment obligation, it is sometimes mandatory to
 state this on the order button. This can be done by, for example, changing the
 order button text to "Order with payment obligation".
 
+## Screenshots
+
+![Screenshot WordPress admin WooCommerce settings payments Direct bank transfer](documentation/screenshot-wp-admin-wc-settings-payments-bacs.png)
+
 ## Examples
 
 ### English
