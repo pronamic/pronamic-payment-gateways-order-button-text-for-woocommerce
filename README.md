@@ -12,9 +12,9 @@ order button text to "Order with payment obligation".
 ### English
 
 - Pay for order
-  [translate.wordpress.org - `nl`](https://translate.wordpress.org/projects/wp-plugins/woocommerce/stable/nl/default/?filters%5Bstatus%5D=either&filters%5Boriginal_id%5D=580015&filters%5Btranslation_id%5D=23198747)
+  - [translate.wordpress.org - `nl`](https://translate.wordpress.org/projects/wp-plugins/woocommerce/stable/nl/default/?filters%5Bstatus%5D=either&filters%5Boriginal_id%5D=580015&filters%5Btranslation_id%5D=23198747)
 - Proceed to PayPal
-  [translate.wordpress.org - `nl`](https://translate.wordpress.org/projects/wp-plugins/woocommerce/stable/nl/default/?filters%5Bstatus%5D=either&filters%5Boriginal_id%5D=579630&filters%5Btranslation_id%5D=51078485)
+  - [translate.wordpress.org - `nl`](https://translate.wordpress.org/projects/wp-plugins/woocommerce/stable/nl/default/?filters%5Bstatus%5D=either&filters%5Boriginal_id%5D=579630&filters%5Btranslation_id%5D=51078485)
 - Order and pay
 - Order with payment obligation
 - Proceed to iDEAL and pay
