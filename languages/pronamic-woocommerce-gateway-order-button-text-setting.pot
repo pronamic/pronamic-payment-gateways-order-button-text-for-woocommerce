@@ -1,0 +1,43 @@
+# Copyright (C) 2023 Pronamic
+# This file is distributed under the Proprietary.
+msgid ""
+msgstr ""
+"Project-Id-Version: Pronamic WooCommerce Gateway Order Button Text Setting 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/pronamic-woocommerce-gateway-order-button-text-setting\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-06-30T08:29:28+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: pronamic-woocommerce-gateway-order-button-text-setting\n"
+
+#. Plugin Name of the plugin
+msgid "Pronamic WooCommerce Gateway Order Button Text Setting"
+msgstr ""
+
+#. Description of the plugin
+msgid "This WordPress plugin adds a setting to all WooCommerce gateways for customizing the order button text."
+msgstr ""
+
+#. Author of the plugin
+msgid "Pronamic"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.pronamic.eu/"
+msgstr ""
+
+#: pronamic-woocommerce-gateway-order-button-text-setting.php:68
+msgid "Order Button Text"
+msgstr ""
+
+#: pronamic-woocommerce-gateway-order-button-text-setting.php:71
+msgid "This setting is added by the \"Pronamic WooCommerce Gateway Order Button Text Setting\" plugin and affects what text visitors see on the WooCommerce order button, leave blank to use the default WooCommerce text."
+msgstr ""
+
+#: pronamic-woocommerce-gateway-order-button-text-setting.php:73
+msgid "Pay for order"
+msgstr ""
