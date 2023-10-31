@@ -3,6 +3,10 @@
 <ruleset name="Pronamic Payment Gateways Order Button Text for WooCommerce">
 	<file>.</file>
 
+	<exclude-pattern type="relative">^build/*</exclude-pattern>
+	<exclude-pattern type="relative">^node_modules/*</exclude-pattern>
+	<exclude-pattern type="relative">^vendor/*</exclude-pattern>
+
 	<rule ref="PronamicWP">
 
 	</rule>
@@ -10,7 +14,7 @@
 	<rule ref="WordPress.WP.I18n">
 		<properties>
 			<property name="text_domain" type="array">
-				<element value="pronamic-woocommerce-gateway-order-button-text-setting" />
+				<element value="pronamic-payment-gateways-order-button-text-for-woocommerce" />
 			</property>
 		</properties>
 	</rule>
