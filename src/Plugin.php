@@ -54,7 +54,6 @@ class Plugin {
 	 * @return void
 	 */
 	public function plugins_loaded() {
-
 	}
 
 	/**
