@@ -1,5 +1,11 @@
 # Pronamic Payment Gateways Order Button Text for WooCommerce
 
+[![Latest Stable Version](http://poser.pugx.org/pronamic/pronamic-payment-gateways-order-button-text-for-woocommerce/v)](https://packagist.org/packages/pronamic/pronamic-payment-gateways-order-button-text-for-woocommerce)
+[![Total Downloads](http://poser.pugx.org/pronamic/pronamic-payment-gateways-order-button-text-for-woocommerce/downloads)](https://packagist.org/packages/pronamic/pronamic-payment-gateways-order-button-text-for-woocommerce)
+[![Latest Unstable Version](http://poser.pugx.org/pronamic/pronamic-payment-gateways-order-button-text-for-woocommerce/v/unstable)](https://packagist.org/packages/pronamic/pronamic-payment-gateways-order-button-text-for-woocommerce)
+[![License](http://poser.pugx.org/pronamic/pronamic-payment-gateways-order-button-text-for-woocommerce/license)](https://packagist.org/packages/pronamic/pronamic-payment-gateways-order-button-text-for-woocommerce)
+[![PHP Version Require](http://poser.pugx.org/pronamic/pronamic-payment-gateways-order-button-text-for-woocommerce/require/php)](https://packagist.org/packages/pronamic/pronamic-payment-gateways-order-button-text-for-woocommerce)
+
 This WordPress plugin adds a setting to all WooCommerce gateways for
 customizing the order button text. This allows you to adjust the standard
 "Pay for order" button text per WooCommerce gateway. For webshops where
