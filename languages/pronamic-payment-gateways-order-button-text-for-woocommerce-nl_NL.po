@@ -1,0 +1,79 @@
+# Copyright (C) 2023 Pronamic
+# This file is distributed under the Proprietary.
+msgid ""
+msgstr ""
+"Project-Id-Version: Pronamic Payment Gateways Order Button Text for "
+"WooCommerce 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/pronamic-payment-"
+"gateways-order-button-text-for-woocommerce\n"
+"POT-Creation-Date: 2023-10-31T15:02:01+00:00\n"
+"PO-Revision-Date: 2023-10-31 16:04+0100\n"
+"Last-Translator: Remco Tolsma <info@remcotolsma.nl>\n"
+"Language-Team: Pronamic\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Domain: pronamic-woocommerce-gateway-order-button-text-setting\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#. Plugin Name of the plugin
+msgid "Pronamic Payment Gateways Order Button Text for WooCommerce"
+msgstr "Pronamic Payment Gateways Order Button Text for WooCommerce"
+
+#. Plugin URI of the plugin
+msgid ""
+"https://www.pronamic.shop/product/pronamic-payment-gateways-order-button-"
+"text-for-woocommerce/"
+msgstr ""
+"https://www.pronamic.shop/product/pronamic-payment-gateways-order-button-"
+"text-for-woocommerce/"
+
+#. Description of the plugin
+msgid ""
+"This WordPress plugin adds a setting to all WooCommerce gateways for "
+"customizing the order button text."
+msgstr ""
+"Deze WordPress-plugin voegt een instelling toe aan alle WooCommerce-gateways "
+"voor het aanpassen van de bestelknoptekst."
+
+#. Author of the plugin
+msgid "Pronamic"
+msgstr "Pronamic"
+
+#. Author URI of the plugin
+msgid "https://www.pronamic.eu/"
+msgstr "https://www.pronamic.nl/"
+
+#: src/Plugin.php:91
+msgid "Order Button Text"
+msgstr "Bestelknoptekst"
+
+#: src/Plugin.php:94
+msgid ""
+"This setting is added by the \"Pronamic Payment Gateways Order Button Text "
+"for WooCommerce\" plugin and affects what text visitors see on the "
+"WooCommerce order button, leave blank to use the default WooCommerce text."
+msgstr ""
+"Deze instelling wordt toegevoegd door de “Pronamic Payment Gateways Order "
+"Button Text for WooCommerce” plugin en beïnvloedt welke tekst bezoekers zien "
+"op de WooCommerce-bestelknop, laat leeg om de standaard WooCommerce-tekst te "
+"gebruiken."
+
+#: src/Plugin.php:96
+msgid "Pay for order"
+msgstr "Betaal voor bestelling"
+
+#~ msgid "Pronamic WooCommerce Gateway Order Button Text Setting"
+#~ msgstr "Pronamic WooCommerce Gateway Order Button Text Setting"
+
+#~ msgid ""
+#~ "This setting is added by the \"Pronamic WooCommerce Gateway Order Button "
+#~ "Text Setting\" plugin and affects what text visitors see on the "
+#~ "WooCommerce order button, leave blank to use the default WooCommerce text."
+#~ msgstr ""
+#~ "Deze instelling wordt toegevoegd door de “Pronamic WooCommerce Gateway "
+#~ "Order Button Text Setting” plugin en beïnvloedt welke tekst bezoekers "
+#~ "zien op de WooCommerce-bestelknop, laat leeg om de standaard WooCommerce-"
+#~ "tekst te gebruiken."

@@ -1,16 +1,16 @@
 {
-  "name": "@pronamic/wp-pronamic-woocommerce-gateway-order-button-text-setting",
-  "version": "1.0.0",
-  "description": "This WordPress plugin adds a setting to all WooCommerce gateways for customizing the order button text.",
-  "keywords": [
-    "pronamic",
-    "wordpress",
-    "woocommerce"
-  ],
-  "author": "Pronamic",
-  "license": "UNLICENSED",
-  "private": true,
-  "devDependencies": {
-    "@wordpress/env": "^8.2.0"
-  }
+	"name": "@pronamic/pronamic-payment-gateways-order-button-text-for-woocommerce",
+	"version": "1.0.0",
+	"description": "This WordPress plugin adds a setting to all WooCommerce gateways for customizing the order button text.",
+	"keywords": [
+		"pronamic",
+		"wordpress",
+		"woocommerce"
+	],
+	"author": "Pronamic",
+	"license": "UNLICENSED",
+	"private": true,
+	"devDependencies": {
+		"@wordpress/env": "^8.10.0"
+	}
 }

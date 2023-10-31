@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 
-<ruleset name="Pronamic WooCommerce Gateway Order Button Text Setting">
+<ruleset name="Pronamic Payment Gateways Order Button Text for WooCommerce">
 	<file>.</file>
 
 	<rule ref="PronamicWP">

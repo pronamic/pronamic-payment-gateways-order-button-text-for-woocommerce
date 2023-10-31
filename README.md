@@ -1,4 +1,4 @@
-# Pronamic WooCommerce Gateway Order Button Text Setting
+# Pronamic Payment Gateways Order Button Text for WooCommerce
 
 This WordPress plugin adds a setting to all WooCommerce gateways for
 customizing the order button text. This allows you to adjust the standard
