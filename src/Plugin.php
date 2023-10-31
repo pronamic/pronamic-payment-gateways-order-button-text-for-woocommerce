@@ -63,14 +63,14 @@ class Plugin {
 	 * @return void
 	 */
 	public function init() {
-		if ( ! function_exists( 'wc' ) ) {
+		if ( ! \function_exists( '\WC' ) ) {
 			return;
 		}
 
-		$payment_gateways = wc()->payment_gateways()->payment_gateways();
+		$payment_gateways = \WC()->payment_gateways()->payment_gateways();
 
 		foreach ( $payment_gateways as $payment_gateway ) {
-			add_filter( 'woocommerce_settings_api_form_fields_' . $payment_gateway->id, [ $this, 'add_order_button_text_setting' ] );
+			\add_filter( 'woocommerce_settings_api_form_fields_' . $payment_gateway->id, [ $this, 'add_order_button_text_setting' ] );
 
 			$order_button_text = (string) $payment_gateway->get_option( 'pronamic_order_button_text' );
 
