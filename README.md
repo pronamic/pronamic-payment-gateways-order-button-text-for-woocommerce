@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/github-banner.png" alt="Pronamic Payment Gateways Order Button Text for WooCommerce"></p>
+
 # Pronamic Payment Gateways Order Button Text for WooCommerce
 
 [![Latest Stable Version](http://poser.pugx.org/pronamic/pronamic-payment-gateways-order-button-text-for-woocommerce/v)](https://packagist.org/packages/pronamic/pronamic-payment-gateways-order-button-text-for-woocommerce)
@@ -21,7 +23,7 @@ Users of this plugin can count on Pronamic's excellent service and experience.
 
 ## Screenshots
 
-![Screenshot WordPress admin WooCommerce settings payments Direct bank transfer](documentation/screenshot-wp-admin-wc-settings-payments-bacs.png)
+![Screenshot WordPress admin WooCommerce settings payments Direct bank transfer](assets/screenshot-wp-admin-wc-settings-payments-bacs.png)
 
 ## Examples
 
