@@ -8,6 +8,16 @@
 [![License](http://poser.pugx.org/pronamic/pronamic-payment-gateways-order-button-text-for-woocommerce/license)](https://packagist.org/packages/pronamic/pronamic-payment-gateways-order-button-text-for-woocommerce)
 [![PHP Version Require](http://poser.pugx.org/pronamic/pronamic-payment-gateways-order-button-text-for-woocommerce/require/php)](https://packagist.org/packages/pronamic/pronamic-payment-gateways-order-button-text-for-woocommerce)
 
+- [Introduction](#introduction)
+- [Benefits](#benefits)
+- [Installation](#installation)
+  - [Composer](#composer)
+- [Screenshots](#screenshots)
+- [Examples](#examples)
+- [Links](#links)
+
+## Introduction
+
 This WordPress plugin adds a setting to all WooCommerce gateways for
 customizing the order button text. This allows you to adjust the standard
 "Pay for order" button text per WooCommerce gateway. For webshops where
@@ -20,6 +30,14 @@ order button text to "Order with payment obligation".
 This simple, high-quality plugin adds a setting to all WooCommerce payment gateways to customize the order button text.
 The plugin was built by the Frisian/Dutch web agency Pronamic with WordPress experience since 2005.
 Users of this plugin can count on Pronamic's excellent service and experience.
+
+## Installation
+
+### Composer
+
+```
+composer require pronamic/pronamic-payment-gateways-order-button-text-for-woocommerce
+```
 
 ## Screenshots
 
