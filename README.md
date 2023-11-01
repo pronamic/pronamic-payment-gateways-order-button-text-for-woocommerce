@@ -11,7 +11,6 @@
 - [Introduction](#introduction)
 - [Benefits](#benefits)
 - [Installation](#installation)
-  - [Composer](#composer)
 - [Screenshots](#screenshots)
 - [Examples](#examples)
 - [Links](#links)
@@ -33,10 +32,12 @@ Users of this plugin can count on Pronamic's excellent service and experience.
 
 ## Installation
 
-### Composer
-
 ```
 composer require pronamic/pronamic-payment-gateways-order-button-text-for-woocommerce
+```
+
+```php
+\Pronamic\WooCommerceGatewayOrderButtonText\Plugin::instance()->setup();
 ```
 
 ## Screenshots
