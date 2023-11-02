@@ -50,3 +50,18 @@ add_action(
 \Pronamic\WooCommerceGatewayOrderButtonText\Plugin::instance()->setup();
 
 \Pronamic\WordPress\Updater\Plugin::instance()->setup();
+
+/**
+ * High Performance Order Storage.
+ * 
+ * @link https://github.com/pronamic/pronamic-payment-gateways-order-button-text-for-woocommerce/issues/1
+ * @link https://github.com/woocommerce/woocommerce/wiki/High-Performance-Order-Storage-Upgrade-Recipe-Book#declaring-extension-incompatibility
+ */
+add_action(
+	'before_woocommerce_init',
+	function () {
+		if ( class_exists( \Automattic\WooCommerce\Utilities\FeaturesUtil::class ) ) {
+			\Automattic\WooCommerce\Utilities\FeaturesUtil::declare_compatibility( 'custom_order_tables', __FILE__, true );
+		}
+	}
+);
