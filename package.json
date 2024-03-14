@@ -1,6 +1,6 @@
 {
 	"name": "@pronamic/pronamic-payment-gateways-order-button-text-for-woocommerce",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "This WordPress plugin adds a setting to all WooCommerce gateways for customizing the order button text.",
 	"keywords": [
 		"pronamic",

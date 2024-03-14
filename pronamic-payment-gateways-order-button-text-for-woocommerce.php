@@ -10,7 +10,7 @@
  * Plugin Name: Pronamic Payment Gateways Order Button Text for WooCommerce
  * Plugin URI: https://www.pronamic.shop/product/pronamic-payment-gateways-order-button-text-for-woocommerce/
  * Description: This WordPress plugin adds a setting to all WooCommerce gateways for customizing the order button text.
- * Version: 1.0.2
+ * Version: 1.0.3
  * Requires at least: 6.1
  * Requires PHP: 8.0
  * Author: Pronamic
