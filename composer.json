@@ -45,7 +45,7 @@
 	},
 	"require": {
 		"php": ">=8.0",
-		"automattic/jetpack-autoloader": "^2.12",
+		"automattic/jetpack-autoloader": "^3.0",
 		"pronamic/pronamic-wp-updater": "^1.0"
 	},
 	"require-dev": {
