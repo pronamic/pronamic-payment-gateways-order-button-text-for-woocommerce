@@ -7,6 +7,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.4] - 2025-06-19
+
+### Commits
+
+- Allow Jetpack autoloader 3, 4 and 5. ([52a06a1](https://github.com/pronamic/pronamic-payment-gateways-order-button-text-for-woocommerce/commit/52a06a1e656661e82f00865bfb22468198e08dcb))
+
+### Composer
+
+- Changed `automattic/jetpack-autoloader` from `v3.0.2` to `v5.0.7`.
+	Release notes: https://github.com/Automattic/jetpack-autoloader/releases/tag/v5.0.7
+- Changed `pronamic/pronamic-wp-updater` from `v1.0.1` to `v1.0.3`.
+	Release notes: https://github.com/pronamic/pronamic-wp-updater/releases/tag/v1.0.3
+
+Full set of changes: [`1.0.3...1.0.4`][1.0.4]
+
+[1.0.4]: https://github.com/pronamic/pronamic-payment-gateways-order-button-text-for-woocommerce/compare/v1.0.3...v1.0.4
+
 ## [1.0.3] - 2024-03-14
 
 ### Composer
